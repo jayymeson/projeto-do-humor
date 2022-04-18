@@ -1,1 +1,1 @@
-# projeto-do-humor
+# jogo-do-humor

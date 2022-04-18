@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "ITC Benguiat";
+  src: url("//db.onlinewebfonts.com/t/aba29c74d9c0c9e0e7f7b612a9e899c7.eot");
+  src: url("//db.onlinewebfonts.com/t/aba29c74d9c0c9e0e7f7b612a9e899c7.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/aba29c74d9c0c9e0e7f7b612a9e899c7.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/aba29c74d9c0c9e0e7f7b612a9e899c7.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/aba29c74d9c0c9e0e7f7b612a9e899c7.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/aba29c74d9c0c9e0e7f7b612a9e899c7.svg#ITC Benguiat")
+      format("svg");
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  background-image: url(../images/wp5522115-stranger-things-4k-wallpapers.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 0;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#pageTitle {
+  color: #f5192f;
+  font-size: auto;
+  
+  font-family: "ITC Benguiat", "ITC Benguiat", sans-serif;
+
+}
+
+button {
+  color: #000000;
+  background-color: #f5192f;
+  height: 80px;
+  width: auto;
+  line-height: 0;
+  padding: 0 20px;
+  border-radius: 30px;
+  font-size: 30px;
+  cursor: pointer;
+  font-family: "ITC Benguiat", "ITC Benguiat", sans-serif;
+}
+
+footer {
+  height: 40px;
+  position: absolute;
+  font-size: cover;
+  bottom: 0;
+  width: 100%;
+  color: #ffffff;
+}
+
+figcaption {
+  color: #f5192f;
+  font-size: 30px;
+  font-family: "ITC Benguiat", "ITC Benguiat", sans-serif;
+}
+
+figure {
+  text-align: center;
+  font-size: cover;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  margin-top: 60vh;
+}
